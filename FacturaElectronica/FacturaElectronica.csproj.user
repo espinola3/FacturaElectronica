@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <StartPageUrl>Default.aspx?a1=saxb%2bNFwG%2fCFGrJxDLj56GmC%2baUZVKtkMhCkqnsrbjA%3d&amp;a2=saxb%2bNFwG%2fCFGrJxDLj56Bz%2byHoRhKZcdhAAqaFrbls%3d&amp;a3=saxb%2bNFwG%2fCFGrJxDLj56B41yg6yualQ06PjaqzKYfg%3d&amp;IM2=saxb%2bNFwG%2fCFGrJxDLj56H4iEaLCCOkl3R4qt8NxLQN23DskKE4dWFTFXHuHhjOveyqSumNsyt2csm6iW8Ot4g%3d%3d&amp;a4=saxb%2bNFwG%2fCFGrJxDLj56P9Eo%2fnQXnMjpUlw0cdvpWs%3d&amp;a5=saxb%2bNFwG%2fCFGrJxDLj56MjR98weJCpLicbu4Z%2f9aaU%3d&amp;a6=saxb%2bNFwG%2fCFGrJxDLj56KmlkEyZF4WEWD4UbhYU6ZcN4sjbgqeA6wMo8PO4YMoL&amp;T1=saxb%2bNFwG%2fCFGrJxDLj56KAWKK0g3hpJvBWFDswKG%2fxGmVbbgC4NFlKRfw0gdFtW&amp;a7=saxb%2bNFwG%2fCFGrJxDLj56GmC%2baUZVKtkMhCkqnsrbjA%3d&amp;a8=saxb%2bNFwG%2fCFGrJxDLj56MFuqkjSRDC9KtPJZDldaflL%2fFr2WyGOirMWLeOXW0v%2fFXQLlbcauUiocv06COpqQQ%3d%3d&amp;a9=saxb%2bNFwG%2fCFGrJxDLj56IRBKMg%2b5mG0zJiamRSWaBdz%2bQFwJ%2bHFnAYfHRWVUdQh&amp;a10=saxb%2bNFwG%2fCFGrJxDLj56LJ4Rkcm61CjNeSMhtw%2fHxsHjehnLDizGXONoCiWM1pLolEYYn%2fgEW6ROMOAF3B21g%3d%3d&amp;a11=saxb%2bNFwG%2fCFGrJxDLj56EJnil2ncT5dXmaK45Bqa8Y%3d&amp;a12=saxb%2bNFwG%2fCFGrJxDLj56GNJNtypOT6enMog8jn6POY%3d&amp;a13=saxb%2bNFwG%2fCFGrJxDLj56MYMVeQlHqfBORa7OV8S1Vk%3d</StartPageUrl>
+          <StartAction>SpecificPage</StartAction>
+          <AspNetDebugging>True</AspNetDebugging>
+          <SilverlightDebugging>False</SilverlightDebugging>
+          <NativeDebugging>False</NativeDebugging>
+          <SQLDebugging>False</SQLDebugging>
+          <ExternalProgram>
+          </ExternalProgram>
+          <StartExternalURL>
+          </StartExternalURL>
+          <StartCmdLineArguments>
+          </StartCmdLineArguments>
+          <StartWorkingDirectory>
+          </StartWorkingDirectory>
+          <EnableENC>False</EnableENC>
+          <AlwaysStartWebServerOnDebug>True</AlwaysStartWebServerOnDebug>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

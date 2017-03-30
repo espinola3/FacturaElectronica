@@ -1,0 +1,10 @@
+N:\eCommerce\Aplicaciones WEB\FacturaElectronica\FacturaElectronica\bin\FacturaElectronica.dll
+N:\eCommerce\Aplicaciones WEB\FacturaElectronica\FacturaElectronica\bin\FacturaElectronica.pdb
+N:\eCommerce\Aplicaciones WEB\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.csprojResolveAssemblyReference.cache
+N:\eCommerce\Aplicaciones WEB\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.dll
+N:\eCommerce\Aplicaciones WEB\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.pdb
+C:\Users\esespie0\Desktop\FacturaElectronica\FacturaElectronica\bin\FacturaElectronica.dll
+C:\Users\esespie0\Desktop\FacturaElectronica\FacturaElectronica\bin\FacturaElectronica.pdb
+C:\Users\esespie0\Desktop\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.csprojResolveAssemblyReference.cache
+C:\Users\esespie0\Desktop\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.dll
+C:\Users\esespie0\Desktop\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.pdb
